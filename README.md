@@ -4,7 +4,7 @@ Lead by [hanniabu](https://twitter.com/hanni_abu), Ether Alpha develops open sou
 
 
 - <u>ClientDiversity.org</u> - A resource site to assist in Ethereum client diversity efforts. [[Github](https://github.com/etheralpha/clientdiversity-org), [Website](https://clientdiversity.org/)]
-- <u>EthSunshine.com</u> - A resource site to assist in Ethereum client diversity efforts. [[Github](https://github.com/etheralpha/project-sunshine), [Website](https://ethsunshine.com/)]
+- <u>EthSunshine.com</u> - A dashboard to monitor the health of Ethereum's decentralization. [[Github](https://github.com/etheralpha/project-sunshine), [Website](https://ethsunshine.com/)]
 - <u>DailyDoots.com</u> - A site to highlight notable contributors to r/ethfinance. [[Github](https://github.com/etheralpha/dailydoots-com), [Website](https://dailydoots.com)]
 - <u>RocketPool.support</u> - A community resource Rocket Pool troubleshooting self-help resource. [[Github](https://github.com/etheralpha/rocketpool-support), [Website](https://rocketpool.support/)]
 - <u>RocketPool.community</u> - A site to highlight the Rocket Pool community. [[Github](https://github.com/etheralpha/rocketpool-community), [Website](https://rocketpool.community/)]
